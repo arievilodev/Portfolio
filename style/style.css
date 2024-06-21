@@ -492,6 +492,7 @@ span {
 
 .skills {
     background: var(--bg-color);
+    align-content: center;
 }
 
 .skills .container {
