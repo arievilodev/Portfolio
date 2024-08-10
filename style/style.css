@@ -428,6 +428,7 @@ span {
     font-size: 22px;
     font-style:var(--text-color);
     margin-bottom: 30px;
+    align-text: center;
 }
 
 .html-logo {
